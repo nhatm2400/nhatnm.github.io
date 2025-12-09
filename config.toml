@@ -1,7 +1,6 @@
 baseURL = "https://nhatm2400.github.io/nhatnm.github.io/"
-relativeURLs = false
-canonifyURLs = false
-
+relativeURLs = true
+canonifyURLs = trua
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
