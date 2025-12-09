@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://nhatm2400.github.io/nhatm_github.io/"
 relativeURLs = true
 canonifyURLs = true
 
