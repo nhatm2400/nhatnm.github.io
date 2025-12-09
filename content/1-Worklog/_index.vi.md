@@ -9,9 +9,9 @@ pre: " <b> 1. </b> "
 
 **Tuần 1:** [Làm quen với AWS và các dịch vụ cơ bản trong AWS. Các khái niệm cơ bản.](1.1-week1/)
 
-**Tuần 2:** [Đi sâu hơn vào các dịch vụ cơ bản của AWS. Triển khai các tính năng.](1.2-week2/)
+**Tuần 2:** [Đi sâu vào các dịch vụ AWS cơ bản (VPC, EC2, Cloud9, S3), triển khai ứng dụng thực tế, cấu hình IAM Roles và hoàn thành website tĩnh trên S3.](1.2-week2/)
 
-**Tuần 3:** [Làm công việc B...](1.3-week3/)
+**Tuần 3:** [Thực hành triển khai RDS, EC2 Auto Scaling + Load Balancer, giám sát hệ thống bằng CloudWatch, thao tác dịch vụ qua AWS CLI và làm quen DynamoDB.](1.3-week3/)
 
 **Tuần 4:** [Làm công việc C...](1.4-week4/)
 
